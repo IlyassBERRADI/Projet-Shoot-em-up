@@ -1,0 +1,25 @@
+2023-05-29:Ilyass Berradi::Made the player able to move and enemy able to show up
+
+2023-05-30:Ilyass Berradi::made the player able to shoot
+
+2023-05-31:Ilyass Berradi::Made the player able to move and shoot at the same time
+
+2023-06-09:bpadja317::Ffile menu.c menu.h , font.tff et logo.png
+
+font.tff : la police de font pour le titre du menu
+logo.png : le logo du menu 
+
+Le fichier main.c : est modifié , 
+-j'ai ajoute l'entete  menu.h. 
+- j'ai modifié le main pour qu'il génère le menu et selon le resultat du menu quitte le programme ou lance le jeu 
+
+Prochain commit : toutes les MAJ collision. Car pour l'instant comme tout n'est pas encore "OK".
+2023-06-11:bpadja317::Detection collision enemy check à 23h j'upload le reste
+2023-06-13:bpadja317::restauration des derniers commits
+
+Projet entièrement fonctionnel
+2023-06-13:bpadja317::Add files via upload
+2023-06-14:bpadja317: (origin/main):Add files via upload
+2023-06-14:Ilyass Berradi::changed makefile
+
+2023-06-14:Ilyass Berradi: (HEAD -> main):fixed some bugs and reordered files

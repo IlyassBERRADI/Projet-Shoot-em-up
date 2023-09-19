@@ -1,0 +1,2 @@
+Nouveau Score: 200, Score Initial: 100, Vies restantes: 0, Ennemis tués: 2
+Nouveau Score: 250, Score Initial: 100, Vies restantes: 0, Ennemis tués: 3
